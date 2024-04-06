@@ -4,7 +4,7 @@
     
 ### 1.1使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事  
         
-![enter image description here](images/1.1300WordsStory.png)
+![ ](images/Lesson 2/homework/1.1300WordsStory.png)
         
 ## 2.进阶作业
     
