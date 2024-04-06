@@ -1,11 +1,11 @@
 ﻿# 第二期 轻松分钟玩转书生·浦语大模型趣味 Demo
-教程连接：https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
+教程连接：[第二期 轻松分钟玩转书生·浦语大模型趣味 Demo](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md)
 ## 1.部署 InternLM2-Chat-1.8B 模型进行智能对话
 
 - 配置基础环境
 - 下载 InternLM2-Chat-1.8B 模型
 - 运行 cli_demo
-- 结果详见作业：[https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#1%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#11%E4%BD%BF%E7%94%A8-internlm2-chat-18b-%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90-300-%E5%AD%97%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B)
+- 结果详见作业：[第二期基础作业](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#1%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A)
 
 ## 2.部署实战营优秀作品 八戒-Chat-1.8B 模型
 - 配置基础环境
@@ -18,7 +18,7 @@
 
 - 配置基础环境
     使用 Lagent 运行 InternLM2-Chat-7B 模型为内核的智能体
-- 过程截图详见作业：[https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#23-%E5%AE%8C%E6%88%90-lagent-%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-demo-%E9%83%A8%E7%BD%B2](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#23-%E5%AE%8C%E6%88%90-lagent-%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-demo-%E9%83%A8%E7%BD%B2)
+- 过程截图详见作业：[第二期进阶作业-3](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#23-%E5%AE%8C%E6%88%90-lagent-%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-demo-%E9%83%A8%E7%BD%B2)
 
 
 ## 4.部署 浦语·灵笔2 模型
@@ -27,7 +27,7 @@
 - 配置基础环境
 - 图文写作实战
 - 图片理解实战
-- 过程截图详见作业：[https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#22-%E6%B5%A6%E8%AF%AD%E7%81%B5%E7%AC%942-%E7%9A%84-%E5%9B%BE%E6%96%87%E5%88%9B%E4%BD%9C-%E5%8F%8A-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-%E9%83%A8%E7%BD%B2](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#22-%E6%B5%A6%E8%AF%AD%E7%81%B5%E7%AC%942-%E7%9A%84-%E5%9B%BE%E6%96%87%E5%88%9B%E4%BD%9C-%E5%8F%8A-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-%E9%83%A8%E7%BD%B2)
+- 过程截图详见作业：[第二期进阶作业-2](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#22-%E6%B5%A6%E8%AF%AD%E7%81%B5%E7%AC%942-%E7%9A%84-%E5%9B%BE%E6%96%87%E5%88%9B%E4%BD%9C-%E5%8F%8A-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-%E9%83%A8%E7%BD%B2)
 
 
 ## 5.课后感悟
@@ -40,6 +40,4 @@
 	- 第二天早上运行八戒-Chat-1.8B速度快了很多！
 
 - 图文写作实战中，当输入过长指令时，模型似乎无法生成文章，只能显示图片。
-- 图片理解实战中，模型可以理解并正确做出简单的数学题，但输出公式时显示的是markdown语言，详见：[https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#223%E5%9B%BE%E7%89%87%E7%90%86%E8%A7%A3%E5%AE%9E%E6%88%98](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#223%E5%9B%BE%E7%89%87%E7%90%86%E8%A7%A3%E5%AE%9E%E6%88%98)
-
-
+- 图片理解实战中，模型可以理解并正确做出简单的数学题，但输出公式时显示的是markdown语言，详见：[第二期进阶作业-2-图片理解](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#223%E5%9B%BE%E7%89%87%E7%90%86%E8%A7%A3%E5%AE%9E%E6%88%98)
