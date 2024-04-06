@@ -5,7 +5,7 @@
 - 配置基础环境
 - 下载 InternLM2-Chat-1.8B 模型
 - 运行 cli_demo
-- 结果详见作业：https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#1%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A
+- 结果详见作业：[https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/homework/Lesson2_Homework.md#1%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A](https://github.com/Cakeeeeey/-/blob/main/Lesson2/homework/Lesson2_Homework.md#11%E4%BD%BF%E7%94%A8-internlm2-chat-18b-%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90-300-%E5%AD%97%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B)
 
 ## 2.部署实战营优秀作品 八戒-Chat-1.8B 模型
 - 配置基础环境
