@@ -1,4 +1,4 @@
-﻿
+# 个人笔记-书生·浦语大模型训练营﻿
 |序号|课程|笔记|作业|
 |--|--|--|--|
 |1| 书生·浦语大模型全链路开源开放体系 |https://github.com/Cakeeeeey/-/blob/main/Lesson1/notes/Lesson1_Notes.md|/|
